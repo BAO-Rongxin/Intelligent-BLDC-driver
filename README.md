@@ -26,5 +26,5 @@ The project includes codes, specification, presentation and other information.
     matlab 2019.a；
     
 感谢各位同事花费时间阅读我们的介绍，查看我们的作品！
-如果对基于6步换相算法的BLDC纯硬件驱动器有兴趣，或是对基于CortexM3内核是SoC设计有兴趣，请邮件联系：brx0331@gmail.com
+如果对基于6步换相算法的BLDC纯硬件驱动器有兴趣，或是对基于CortexM3内核的SoC设计有兴趣，请邮件联系：brx0331@gmail.com
 备用联系方式：sbz6933@163.com ，2424255165@qq.com。不定期查看邮件，敬请谅解！
