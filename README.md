@@ -10,20 +10,20 @@ The project includes codes, specification, presentation and other information.
 由于arm公司的授权限制，未在工程中包含比特流文件，同事们可以使用vivado重新生成。
 
 我们的作品包括如下硬件：
-    硬木课堂Artix7 xc7a75t开发板
-    正点原子3.5英寸480x320电阻显示屏
-    自制电机驱动和过零检测的电路板
-    555时基电路（可以用函数发生器取代）
-    ACS712和LM358组成的电流检测电路
-    ds18b20温度传感器
-    ds3231实时时钟
-    CH340串口转USB模块
+    硬木课堂Artix7 xc7a75t开发板；
+    正点原子3.5英寸480x320电阻显示屏；
+    自制电机驱动和过零检测的电路板；
+    555时基电路（可以用函数发生器取代）；
+    ACS712和LM358组成的电流检测电路；
+    ds18b20温度传感器；
+    ds3231实时时钟；
+    CH340串口转USB模块；
 
 我们使用的开发工具包括：
-    vitis 2020.1
-    quartus prime lite 19.1
-    MDK-arm 5.21a
-    matlab 2019.a
+    vitis 2020.1；
+    quartus prime lite 19.1；
+    MDK-arm 5.21a；
+    matlab 2019.a；
     
 感谢各位同事花费时间阅读我们的介绍，查看我们的作品！
 如果对基于6步换相算法的BLDC纯硬件驱动器有兴趣，或是对基于CortexM3内核是SoC设计有兴趣，请邮件联系：brx0331@gmail.com
